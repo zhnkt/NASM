@@ -1,5 +1,9 @@
 # NASM
 ССЫЛКИ, ОБЯЗАТЕЛЬНЫЕ ДЛЯ СКАЧИВАНИЯ
+
+Расширение для VS Code
+https://marketplace.visualstudio.com/items?itemName=LucianIrsigler.nasm
+
 Ubuntu
 https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true
 
